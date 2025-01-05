@@ -67,8 +67,7 @@ public class ForLoopPrograms {
 	}
 	
 	private void mobileDevice() {
-		// TODO Auto-generated method stub
-
+      //oddnumber
 	}
 	
 }
