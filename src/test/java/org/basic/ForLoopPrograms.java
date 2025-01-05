@@ -70,6 +70,10 @@ public class ForLoopPrograms {
       //oddnumber
 	}
 	
+	private void mehod() {
+		// TODO Auto-generated method stub
+
+	}
 }
 	
 	
