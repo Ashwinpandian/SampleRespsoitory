@@ -66,6 +66,11 @@ public class ForLoopPrograms {
 		addAllOddNumberBtw1To10andPrint();
 	}
 	
+	private void mobileDevice() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
 	
 	
